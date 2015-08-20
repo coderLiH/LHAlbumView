@@ -9,7 +9,6 @@ import "JTAImagesAlbumView.h"
 
 - (void)click {
     self.imagesAlbum.currentIndex = indexPath.row;
-    self.imagesAlbum.rootScrollView.contentOffset = CGPointMake(indexPath.row * UI_SCREEN_WIDTH, 0);
 }
 
 - (void)init {

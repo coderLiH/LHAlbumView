@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8447F197-3B79-47AD-AD2D-7081D5A258D4</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>LHAlbumDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B0A7BB4F54FEC807D109C3D4CCE4CEA133B906AD</key>
 		<string>github.com:coderLiH/LHAlbumView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>LHAlbumDemo/LHAlbumDemo.xcodeproj/project.xcworkspace</string>
+	<string>LHAlbumDemo/LHAlbumDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B0A7BB4F54FEC807D109C3D4CCE4CEA133B906AD</key>

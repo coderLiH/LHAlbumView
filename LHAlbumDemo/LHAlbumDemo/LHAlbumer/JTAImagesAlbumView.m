@@ -60,6 +60,8 @@
     _currentIndex = currentIndex;
     
     self.indexLabel.text = [NSString stringWithFormat:@"%tu/%tu", _currentIndex+1,self.images.count];
+    
+    self.rootScrollView.contentOffset = CGPointMake(currentIndex * UI_SCREEN_WIDTH, 0);
 }
 
 #pragma mark UISCrollViewDelegate

@@ -53,7 +53,6 @@
 
 - (void)collectionView:(UICollectionView *)collectionView didSelectItemAtIndexPath:(NSIndexPath *)indexPath {
     self.imagesAlbum.currentIndex = indexPath.row;
-    self.imagesAlbum.rootScrollView.contentOffset = CGPointMake(indexPath.row * UI_SCREEN_WIDTH, 0);
 }
 
 - (JTAImagesAlbumView *)imagesAlbum {
